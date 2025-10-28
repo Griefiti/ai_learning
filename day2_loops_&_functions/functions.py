@@ -33,7 +33,7 @@ for i in range(1,11):
 # The only difference is one gets displayed onto the screen, and the other most often gets stored inside a variable for other purposes. 
 '''Why might functions make your code easier to maintain or reuse later?'''
 # Functions allow us to shrink down and easily manage large complex programs by allowing us to completely replace small repetitive parts with a function/mini program. Imagine, you have multiple characters in a video game, and all of them have the same basic attack. Instead of coding for all ten. You make a function for the basic attack and call the function in all ten characters.
-# Its also much neat and tider.
+# Its also much neat and tidier.
 
 #BONUS-------------------------------------------------------------------------
 def kinetic_energy(mass,velocity):
