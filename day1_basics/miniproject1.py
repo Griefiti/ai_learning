@@ -1,5 +1,5 @@
 #Mini Project: Café Checkout System
-#TASK 6A - subtotal calculation
+#TASKA - subtotal calculation
 
 item1 = float(input("What is the price of your first item: "))
 item2 = float(input("What is the price of your second item: "))
@@ -10,7 +10,7 @@ if item1 >= 0 and item2 >= 0 and item3 >= 0:
     subtotal = item1 + item2 + item3
     total += subtotal
 
-    #TASK 6B - discounts and tax
+    #TASKB - discounts and tax
 
     # member discount
     member = input("Are you a member?(y/n): ") 
@@ -31,7 +31,7 @@ if item1 >= 0 and item2 >= 0 and item3 >= 0:
     GST = total * 0.09
     total += GST 
     
-    #TASK 6C - receipt
+    #TASKC - receipt
 
     dollar_width = len(str(round(total, 2)))
     max_width = 19 + dollar_width
