@@ -1,5 +1,4 @@
 # Mini-Project: Menu-Driven List Manager
-#TASKA: Project Boot
 items = []
 total_width = 16
 label_width = total_width - 9
@@ -163,3 +162,10 @@ def main_menu():
 
 main_menu()
 
+'''
+I learned that tuples, sets, and dictionaries each serve unique purposes.
+Tuples store fixed data. 
+Sets manage unique items and quick comparisons.
+Dictionaries tie everything together through key-value mapping.
+When combined, they form the foundation of real-world data management.
+'''
