@@ -1,0 +1,17 @@
+{
+    "S101": {
+        "name": "John",
+        "age": 18,
+        "clubs": [
+            "Robotics",
+            "Sports"
+        ]
+    },
+    "S102": {
+        "name": "Maya",
+        "age": 19,
+        "clubs": [
+            "Music"
+        ]
+    }
+}
