@@ -1,0 +1,11 @@
+id,name,age,subjects,clubs
+S001,Mei Wong,18,Art;Design;English,Art;Media
+S002,Amira Tan,18,Math;English;Physics,Robotics;Science
+S003,Liam Chan,18,Biology;Chemistry;Math,Science;Sports
+S004,Noah Lim,18,Biology;Physics;Chemistry,Science;Robotics
+S005,Ethan Lim,19,Economics;Math;Computing,Debate;Chess
+S006,Hannah Goh,19,English;Art;Design,Art;Drama
+S007,Kai Tan,20,Economics;Accounting;Math,Finance;Sports
+S008,Aisha Rahman,19,Math;Computing;Design,Programming;Chess
+S009,Daniel Ong,20,Computing;Physics;Math,Robotics;Programming
+S010,Sophia Lee,19,English;History;Geography,Drama;Dance
